@@ -80,6 +80,14 @@ The Watergate integration provides the following entities.
   - **Description**: The current temperature of the water.
   - **Remarks**: Useful for monitoring and ensuring safe water temperatures.
 
+- **Water event duration**
+  - **Description**: The duration of the current water event.
+  - **Remarks**: Useful for detecting long water usage and a suspected water leak.
+
+- **Water event volume**
+  - **Description**: The total volume of the current water event.
+  - **Remarks**: Useful for detecting high water usage and a suspected water leak.
+
 #### Valves
 
 - **Water valve state**
